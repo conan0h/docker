@@ -44,6 +44,12 @@ button:focus {
 }
 
 #linker {
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+
+#form {
 	display: block;
 	margin: auto;
 }
